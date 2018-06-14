@@ -1,0 +1,74 @@
+{ 
+    "contact": [
+        {
+        "id" : 1,
+    "name": "Nano Brasil",
+    "moedas":  "Nano(NANO)",
+    "bancos": "PagSeguro, Bradesco, Pessoalmente"
+    
+},
+{
+    "id" : 2,
+    "name": "Renann Lima",
+    "moedas": "Bitcoin(BTC), Nano(NANO)",
+    "bancos": "Banco do Brasil, Inter, Bradesco"
+   
+},
+{
+    "id" : 3,
+   "name": "Alex P2P",
+   "moedas": "Decred(DCR), Ethereum(ETH)",
+   "bancos": "Banco do Brasil, Itaú, Inter"
+   
+},
+{
+    "id" : 4,
+    "name": "Murilo Valadares",
+    "moedas": "Decred(DCR), Ethereum(ETH)",
+    "bancos": "Inter, Neon, Inter"
+   
+},
+{
+    "id" : 5,
+   "name": "Daniel Lins P2P",
+   "moedas": "Bitcoin(BTC), Dash(DAssSH)",
+   "bancos": "Banco do Brasil, Itaú "
+   
+},
+{
+    "id" : 6,
+   "name": "GLOBALMONEY TRADING",
+   "moedas": " Qtum(QTUM), Stellar(XLM)",
+    "bancos": "Santander, Caixa, Bradesco"
+   
+},
+{
+    "id" : 7,
+ "name": "Hugo Furtado",
+ "moedas": "Litecoin(LTC), Ripple(XRP)",
+ "bancos": "Banco do Brasil, Neon"
+  
+},
+{
+    "id" : 8,
+ "name": "Jéssica Lima",
+ "moedas": "Litecoin(LTC), Dash(DASH)",
+ "bancos": "Banco do Brasil, Bradesco"
+   
+},
+{
+    "id" : 9,
+ "name": "Denis Fassano P2Piloto",
+ "moedas": "Bitcoin(BTC), Litecoin(LTC)",
+ "bancos": "Banco do Brasil,Inter, Bradesco"
+    
+},
+{
+    "id" : 10,
+    "name":"Guilherme Di Faria",
+    "moedas": "Litecoin(LTC), HTMLCOIN(HTML)",
+    "bancos": "Banco do Brasil,  Inter, Bradesco"
+    
+}
+]}
+

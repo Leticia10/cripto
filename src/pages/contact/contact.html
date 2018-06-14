@@ -1,0 +1,21 @@
+ <ion-header>
+    <ion-navbar color= "dark">
+      <ion-title>Vendedores</ion-title>
+    </ion-navbar>
+  </ion-header>
+
+
+  <ion-content padding> 
+  <ion-list> 
+   <ion-item *ngFor="let d of dados">
+      <!-- <h2><b>{{ d.contact }}</b></h2> -->
+     <h3><b>Nome:</b> {{ d.name }}</h3>
+      <h3><b>Moedas:</b> {{ d.moedas }}</h3>
+      <h3><b>Banco:</b> {{ d.bancos }}</h3>
+    </ion-item>
+  
+  </ion-list>
+
+ </ion-content> 
+  
+  
